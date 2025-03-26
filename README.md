@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monica-kc&label=Profile%20views&color=0e75b6&style=flat" alt="monica-kc" /> </p>
 
-- 🌱 I’m currently learning **Pyhton , DSA and Servicenow**
+- 🌱 I’m currently learning **Python , DSA and Servicenow**
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
